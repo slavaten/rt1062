@@ -14,8 +14,8 @@
 				"version": "1.0.0",
 				"url": "https://github.com/slavaten/rt1062/blob/master/ArduinoCore-imxrt.zip?raw=true",				
 				"archiveFileName": "ArduinoCore-imxrt.zip",
-				"checksum": "SHA-256:82D07EFA47F1D4B79A2063D8F832FEBEB0A70623B7AB54085525CF1201794F32",
-				"size": "29576686",
+				"checksum": "SHA-256:9B51BE79CD3C9F985A2387F0E76BA87F1726D95EB46B850774AF18F046FB0048",
+				"size": "29576648",
 				"boards": [{
 					"name": "slavaten RT1060"
 				}],
