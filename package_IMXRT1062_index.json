@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "IMXRT1062",
-      "maintainer": "5G HUB",
+      "maintainer": "5G_HUB",
       "websiteURL": "",
       "email": "",
       "platforms": [
@@ -22,12 +22,12 @@
 				],
 				"toolsDependencies": [
 					{
-						"packager": "5G HUB",
+						"packager": "5G_HUB",
 						"version": "7-2017q4",
 						"name": "arm-none-eabi-gcc"
 					},
 					{
-						"packager": "5G HUB",
+						"packager": "5G_HUB",
 						"version": "1.9.1-seeeduino",
 						"name": "bossac"
 					}
